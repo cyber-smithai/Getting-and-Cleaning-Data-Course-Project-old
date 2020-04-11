@@ -20,7 +20,7 @@ For each record it is provided:
 * An identifier of the subject who carried out the experiment.
 
 
-##Project Files
+## Project Files
 
 This project contains the following files
 * CodeBook.md. describes the variables, the data, and any work that are performed to clean up the data.
