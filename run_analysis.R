@@ -33,7 +33,7 @@ testY <- read.table(testDS2)
 subject_test <- read.table(testsub)
 
 features <- read.table('./UCI HAR Dataset/features.txt')
-act_Labels = read.table('./UCI HAR Dataset/activity_labels.txt')
+act_Labels <- read.table('./UCI HAR Dataset/activity_labels.txt')
 
 ## applies column name to data
 colnames(trainX) <- features[,2]
