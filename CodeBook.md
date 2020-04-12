@@ -17,7 +17,7 @@
 * Step 5. Creating a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
 ## About R script
-File with R code "run_analysis.R" perform 5 above steps (in accordance assigned task of course work)
+File with R code "run_analysis.R" perform the 5 steps above (in accordance assigned task of course work)
 
 ## About variables:   
 
@@ -46,4 +46,4 @@ The variables for Test Data are as follows:
 
 * ***act_Labels*** is the variable for the file activity_labels.txt.  The  activity_labels.txt  contains the descriptive names for each activity label, which corresponds to each number in the  y_train.txt  and  y_test.txt
 
-* The  ***README.txt***  is the overall description about the overall process of how publishers of this dataset did the experiment and got the data result.
+* The  ***README.txt***  is the overall description about the process of how publishers of this dataset did the experiment and got the data result.
