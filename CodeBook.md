@@ -1,9 +1,10 @@
----
-title: "CodeBook.md"
-author: "Matthew Smith"
-date: "4/6/2020"
-output: html_document
----
+|         |            |  
+| ------------- |:-------------:|
+| Title:     | CodeBook.md |
+| Author:     | Matthew Smith      |
+| Date: | 4/6/2020   |
+| University:      |Johns Hopkins University           |
+|Specialization:       |  Data Science Specialization           |
 ## Getting and Cleaning Data - peer assessment project
 
 
